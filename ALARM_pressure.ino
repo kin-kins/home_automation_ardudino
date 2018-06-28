@@ -2,7 +2,7 @@
 LiquidCrystal lcd(2,4,9,10,11,12);
 int t,counter=0;int timeset; int hour=0 ;int minutes=0; int decide;int ahour;int aminutes;
 int xh;int xm; int ah;int am;// x variables are for clock timing where as a variables for alarm timing
-int ring; 
+int ring;  
 
 void setup()
 {
